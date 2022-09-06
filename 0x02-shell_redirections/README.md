@@ -1,1 +1,1 @@
-it displays all the lines in the file /etc/passwd that do not contain the pattern "bin" 
+the script replace all characters A and C from  input to Z and e respectively
