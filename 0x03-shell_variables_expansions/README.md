@@ -1,1 +1,1 @@
-script that encodes and decodes tesxt using the rot13 encyption
+script that prints every other line from the input, starting with the first line
