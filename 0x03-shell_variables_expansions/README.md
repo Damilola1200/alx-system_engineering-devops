@@ -1,1 +1,1 @@
-converts a number from base2 to base10
+ script that prints all possible combinations of two letters, except oo
